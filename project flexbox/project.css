@@ -1,0 +1,28 @@
+.father{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    justify-content: space-around;
+    
+    
+    }
+    .one{
+    
+        height: 350px;
+        width: 350px;
+        background-color: aliceblue;
+    }
+    .two{
+        height: 350px;
+        width: 350px;
+        background-color: aliceblue;
+    
+    }
+    .three{
+        height: 350px;
+        width: 350px;
+        background-color:aliceblue;
+    
+    }
